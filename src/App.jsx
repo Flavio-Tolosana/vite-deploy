@@ -5,21 +5,26 @@ const users = [
   {
     userName: 'midudev',
     name: 'Miguel Ángel Durán',
-    isFollowing: true
-  },
-  {
-    userName: 'pheralb',
-    name: 'Pablo H.',
     isFollowing: false
   },
   {
-    userName: 'PacoHdezs',
-    name: 'Paco Hdez',
+    userName: 'mouredev',
+    name: 'Brais Moure',
     isFollowing: true
   },
   {
-    userName: 'TMChein',
-    name: 'Tomas',
+    userName: 's4vitar',
+    name: 'S4vitar',
+    isFollowing: true
+  },
+  {
+    userName: 'chinchan',
+    name: 'Robot',
+    isFollowing: false
+  },
+  {
+    userName: 'mermaid',
+    name: 'Sirena',
     isFollowing: false
   }
 ]
